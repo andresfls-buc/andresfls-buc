@@ -1,7 +1,8 @@
 # Hello there 👋
 
 <div align="center">
-![giphy](https://github.com/user-attachments/assets/3be8f17c-1fda-4e45-a44c-82b7be1471bd)
+
+![giphy](https://github.com/user-attachments/assets/11e23839-7f2f-40d0-977b-65e7a1174553)
 
 </div>
 
