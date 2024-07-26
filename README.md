@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![giphy](https://github.com/user-attachments/assets/11e23839-7f2f-40d0-977b-65e7a1174553)
+![gis](https://github.com/user-attachments/assets/a0a6f469-aad6-4c6a-8fae-23023d7f7893)
+
 
 </div>
 
@@ -39,9 +40,13 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+
+
+
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
@@ -62,7 +67,8 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+![giphy2](https://github.com/user-attachments/assets/4d940e4b-4fa1-4c21-83a6-9709e54e1e71)
 
 
 If you want to reach out to me about anything, please feel free to do it.
@@ -70,7 +76,7 @@ If you want to reach out to me about anything, please feel free to do it.
 <a href="mailto:andresflsxx@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="www.linkedin.com/in/andres-felipe-landazabal-sanmiguel-79393131b">
+<a href="[www.linkedin.com/in/andres-felipe-landazabal-sanmiguel-79393131b](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
@@ -91,8 +97,8 @@ If you want to reach out to me about anything, please feel free to do it.
 
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  <a href="https://github.com/andresfls-buc/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=andresfls-buc&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
