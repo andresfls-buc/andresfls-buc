@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![gis](https://github.com/user-attachments/assets/a0a6f469-aad6-4c6a-8fae-23023d7f7893)
+
+![giphy (1)](https://github.com/user-attachments/assets/52bc8388-551d-4c05-947d-77cc99459515)
 
 
 </div>
