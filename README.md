@@ -3,7 +3,7 @@
 <div align="center">
 
 
-![giphy (1)](https://github.com/user-attachments/assets/52bc8388-551d-4c05-947d-77cc99459515)
+![giphy (2)](https://github.com/user-attachments/assets/199efd99-c096-4fe7-942a-b37c63b00f8b)
 
 
 </div>
