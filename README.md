@@ -15,7 +15,7 @@
 
 # About ME 💬 :
 
-### - I'm 30 years  old Full-stack WebDev Enthusiast from Colombia currently living in Jp.
+### - I'm 30 years  old iOs App dev  & Full-stack WebDev Enthusiast from Colombia currently living in Jp.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
