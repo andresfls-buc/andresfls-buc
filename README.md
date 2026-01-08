@@ -1,3 +1,3 @@
 # Hi there 👋!
 
-I am a AI ,Cybersecurity & Cloud engineer with more than 5 years of experience in development and technology management.
+I am an AI, Cybersecurity, and Cloud Engineer with over five years of experience in software development and technology management.
